@@ -20,8 +20,8 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['94768397085']
-global.premium = ['94768397085']
-global.ownernomer = '94768397085'
+global.premium = ['94723418093']
+global.ownernomer = '94723418093'
 global.ownername = 'Idu bot'
 global.botname = 'BIXBY-MD USER BOT'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
